@@ -10,8 +10,6 @@
 
 ---
 
-学习中
-
 ## 精选项目
 
 ### [Lingua Nexus](https://github.com/userLongWu/Lingua-Nexus)
