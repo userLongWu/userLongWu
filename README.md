@@ -2,9 +2,7 @@
 
 # Hi, I'm linlinlingo 👋
 
-**语言学习 · 灵感记录 · 前端实践**
-
-Building small tools for learning and everyday ideas.
+**学习中**
 
 [探索我的项目](https://github.com/userLongWu?tab=repositories) · [GitHub @userLongWu](https://github.com/userLongWu)
 
@@ -12,7 +10,7 @@ Building small tools for learning and everyday ideas.
 
 ---
 
-你好，我是 **linlinlingo**。我用 React、Vue 和 TypeScript 构建小工具，把语言学习和日常灵感变成可以交互、记录和回顾的内容。
+学习中
 
 ## 精选项目
 
